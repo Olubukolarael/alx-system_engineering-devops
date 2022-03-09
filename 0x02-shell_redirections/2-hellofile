@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 cat /etc/passwd
+=======
+echo cat /etc/passwd
+>>>>>>> 165e3e6b8d9ffeeaf54b950755871c750b5e2dc0
